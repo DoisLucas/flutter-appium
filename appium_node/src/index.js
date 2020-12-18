@@ -2,12 +2,19 @@ const wdio = require('webdriverio');
 const assert = require('assert');
 const find = require('appium-flutter-finder');
 
-const osSpecificOps = {
-  platformName: process.argv[2],
-  deviceName: process.argv[3],
-  platformVersion: process.argv[4],
-  app: process.argv[5],
-};
+const osSpecificOps = process.argv[2] === 'android' ? {
+  platformName: 'Android',
+  deviceName: 'emulator-5556',
+  app: __dirname + '/../../flutter_app/build/app/outputs/apk/debug/app-debug.apk',
+} : process.argv[2] === 'ios' ? {
+  platformName: 'iOS',
+  automationName: 'XCUITest',
+  deviceName: 'iPhone 12 Pro Max',
+  platformVersion: '14.2',
+  app: __dirname + '/../../flutter_app/Build/ios/Debug-iphonesimulator/Runner.app',
+  noReset: true,
+  udid: "auto",
+} : {};
 
 const opts = {
   port: 4723,
