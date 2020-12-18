@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a26418b-fd11-4213-a211-d3db1abdaf0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Appium-Log.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/appium_log.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/kotlin/com/example/appium_example/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/kotlin/com/example/appium_example/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/res/values-night/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/lib/pages/one_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/pages/one_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/lib/pages/two_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/pages/two_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/lib/widgets/custom_text_example.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/widgets/custom_text_example.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/lib/widgets/custom_text_form_field_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/widgets/custom_text_form_field_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_example/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium_js_run/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/appium_node/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kjW1bV0wFbp3gRyuq3A1QtTNTL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Dart" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/appium_example" />
+      <recent name="$PROJECT_DIR$/appium_example/lib/integration_test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a26418b-fd11-4213-a211-d3db1abdaf0a" name="Default Changelist" comment="" />
+      <created>1606214266525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606214266525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1892" y="163" width="1720" height="857" key="AVDManager" timestamp="1606214606842">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="1892" y="163" width="1720" height="857" key="AVDManager/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1606214606842" />
+    <state width="461" height="466" key="DebuggerActiveHint" timestamp="1606333935684">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="461" height="466" key="DebuggerActiveHint/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1606333935684" />
+    <state x="1942" y="153" key="DiffContextDialog" timestamp="1606332123315">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="1942" y="153" key="DiffContextDialog/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1606332123315" />
+    <state width="1201" height="314" key="GridCell.Tab.0.bottom" timestamp="1608309516254">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1201" height="529" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1608295595480" />
+    <state width="1201" height="314" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1608309516254" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1607681010900" />
+    <state width="1201" height="314" key="GridCell.Tab.0.center" timestamp="1608309516253">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1201" height="529" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1608295595480" />
+    <state width="1201" height="314" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1608309516253" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1607681010900" />
+    <state width="1201" height="314" key="GridCell.Tab.0.left" timestamp="1608309516253">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1201" height="529" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1608295595479" />
+    <state width="1201" height="314" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1608309516253" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1607681010900" />
+    <state width="1201" height="314" key="GridCell.Tab.0.right" timestamp="1608309516254">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1201" height="529" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1608295595480" />
+    <state width="1201" height="314" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1608309516254" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1607681010900" />
+    <state width="1878" height="290" key="GridCell.Tab.1.bottom" timestamp="1606215900067">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1606215900067" />
+    <state width="1878" height="290" key="GridCell.Tab.1.center" timestamp="1606215900067">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1606215900067" />
+    <state width="1878" height="290" key="GridCell.Tab.1.left" timestamp="1606215900067">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1606215900067" />
+    <state width="1878" height="290" key="GridCell.Tab.1.right" timestamp="1606215900067">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1606215900067" />
+    <state x="2519" y="301" key="RollbackChangesDialog" timestamp="1606332153586">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="2519" y="301" key="RollbackChangesDialog/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1606332153586" />
+    <state x="430" y="196" key="SettingsEditor" timestamp="1608293653385">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="430" y="196" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1608293653385" />
+    <state x="2253" y="230" key="SettingsEditor/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1607605161426" />
+    <state x="374" y="317" width="793" height="509" key="find.popup" timestamp="1608308856049">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="374" y="317" width="793" height="509" key="find.popup/1792.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1608308856049" />
+    <state x="2193" y="346" width="644" height="490" key="find.popup/1792.63.1920.1057/0.23.1792.1097@1792.63.1920.1057" timestamp="1606321047261" />
+  </component>
+</project>
